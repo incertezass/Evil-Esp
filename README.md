@@ -9,7 +9,7 @@
 
 ## Descrição 🚀
 
-O Evil Goat é um projeto Arduino que funciona como um criador de Evil Twin, implementando um captive portal para login Wi-Fi por meio de um ESP8266. Este dispositivo cria uma rede Wi-Fi simulada, atrai dispositivos próximos e, ao usar uma interface web convincente, induz os usuários a realizar logins comprometedores. O Evil Goat é uma ferramenta versátil para testes de segurança em redes sem fio.
+O Evil é um projeto Arduino que funciona como um criador de Evil Twin, implementando um captive portal para login Wi-Fi por meio de um ESP8266. Este dispositivo cria uma rede Wi-Fi simulada, atrai dispositivos próximos e, ao usar uma interface web convincente, induz os usuários a realizar logins comprometedores. O Evil é uma ferramenta versátil para testes de segurança em redes sem fio.
 
 
 ## 🔧 Instalação
